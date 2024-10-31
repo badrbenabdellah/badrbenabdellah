@@ -1,112 +1,103 @@
-<h1 align="center">Hi 👋, I'm Badr Benabdellah</h1>
-<h3 align="center">Software Engineering and Intelligent Systems student</h3>
+# Hi there, I'm Najlae 👋 
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=badrbenabdellah&label=Profile%20views&color=0e75b6&style=flat" alt="badrbenabdellah" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=Welcome+to+my+Profile!;I'm+a+Software+Engineer+💻;" alt="Typing SVG" /></a>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=badrbenabdellah" alt="badrbenabdellah" />
-    </a>
-</p>
+- 🎲 I’m currently working on various projects
 
-- 🌱 I’m currently learning **Spring Boot, Database Administration**
-- 💬 Ask me about **React, C++, Java**
+### Find me on:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/badr benabdellah" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badr benabdellah" height="30" width="40" />
-    </a>
-</p>
+[<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin2.png" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-</p>
+<br/><br/> 
 
-<h3 align="left">Frameworks & Libraries:</h3>
-<p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://symfony.com" target="_blank" rel="noreferrer">
-        <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-</p>
+### Languages:
 
-<h3 align="left">Tools & Technologies:</h3>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
-</p>
+<img align="left" alt="JavaScript" width="34px" src="./img/js2.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="30px" src="./img/cpp.png" style="padding-right:10px;" />
+<img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="43px" src="./img/java2.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="36px" src="./img/typescript.png" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="36px" src="./img/lua.png" style="padding-right:10px;" />
+<img align="left" alt="C sharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
+<img align="left" alt="Shell Scripting" width="36px" src="./img/shell-scripting.jpg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="40px" src="./img/php2.png" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="36px" src="./img/sql.png" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badrbenabdellah&show_icons=true&locale=en&layout=compact" alt="badrbenabdellah" /></p>
+<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badrbenabdellah&show_icons=true&locale=en" alt="badrbenabdellah" /></p>
+### Databases:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbenabdellah&" alt="badrbenabdellah" /></p>
+<img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="50px" src="./img/mysql2.png" style="padding-right:10px;" />
+<img align="left" alt="Oracle" width="50px" src="./img/oracle2.png" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="50px" src="./img/postgresql.png" style="padding-right:10px;" />
+
+<br/><br/>
+
+### Frameworks & Libraries:
+
+<img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
+<img align="left" alt="ReactJs" width="36px" src="./img/react2.png" style="padding-right:10px;" />
+<img align="left" alt="Three.js" width="50px" src="./img/three-js.png" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="80px" src="./img/spring2.png" style="padding-right:10px;" />
+<img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="40px" src="./img/express-js.png" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="40px" src="./img/laravel.png" style="padding-right:10px;" />
+
+<br/><br/>
+
+### Artificial Intelligence:
+
+<img align="left" alt="Regression" width="36px" src="./img/regression.png" style="padding-right:10px;" />
+<img align="left" alt="Classification" width="36px" src="./img/classification.png" style="padding-right:10px;" />
+<img align="left" alt="Reinforcement Learning" width="36px" src="./img/reinforcement-learning.png" style="padding-right:10px;" />
+<img align="left" alt="scikit-learn" width="70px" src="./img/scikit-learn.png" style="padding-right:10px;" />
+<img align="left" alt="OpenCV" width="36px" src="./img/opencv.png" style="padding-right:10px;" />
+<img align="left" alt="OpenGL" width="70px" src="./img/opengl.png" style="padding-right:10px;" />
+<img align="left" alt="dlib" width="50px" src="./img/dlib.png" style="padding-right:10px;" />
+
+<br/><br/>
+
+### Tools & Technologies:
+
+<img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
+<img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="36px" src="./img/postman.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<br/><br/>
+
+### Other:
+
+<img align="left" alt="Linux" width="36px" src="./img/linux.png" style="padding-right:10px;" />
+<img align="left" alt="Graph Theory" width="36px" src="./img/graph-theory.png" style="padding-right:10px;" />
+<img align="left" alt="Hadoop" width="50px" src="./img/hadoop.png" style="padding-right:10px;" />
+<img align="left" alt="PySpark" width="50px" src="./img/pyspark.png" style="padding-right:10px;" />
+<img align="left" alt="Power BI" width="30px" src="./img/power-bi.png" style="padding-right:10px;" />
+<img align="left" alt="Scrum" width="36px" src="./img/scrum.png" style="padding-right:10px;" />
+<img align="left" alt="Unreal Engine 5" width="36px" src="./img/unreal2.png" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
+<img align="left" alt="Blender" width="36px" src="./img/blender2.png" style="padding-right:10px;" />
+
+<br/><br/><br/> 
+
+### My Programming Stats
+
+| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level&theme=dark&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=najlae01&theme=dark&background=000000)](https://git.io/streak-stats) |
+| ------------- | ------------- |
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) | 
+| ------------- | 
+
+### Tags
+
+- **college-project Tag**: Projects related to my academic studies.
+- **hobby-project Tag**: Personal projects I work on in my free time for fun and/or learning purposes.
+- **cs50 Tag**: Projects related to the CS50 course.
