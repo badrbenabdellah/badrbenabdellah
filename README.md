@@ -1,4 +1,4 @@
-# Hi there, I'm Najlae 👋 
+# Hi there, I'm Badr Benabdellah 👋 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=Welcome+to+my+Profile!;I'm+a+Software+Engineer+💻;" alt="Typing SVG" /></a>
 
